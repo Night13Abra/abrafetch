@@ -5,7 +5,7 @@ Abrafetch ist ein einfaches und anpassbares System-Info-Tool, das in der Kommand
 ## Features
 - Zeigt Systeminformationen wie Betriebssystem, CPU, GPU und mehr.
 - Ermöglicht benutzerdefinierte Logos, die in einer `.txt`-Datei gespeichert werden.
-- Zitate aus Marx, Engels und Lenin für etwas politische Philosophie.
+- Zitate aus Marx, Engels und Lenin für etwas politische Philosophie. Kannst die auch ändern ;)
 
 ## Installation
 
