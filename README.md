@@ -89,21 +89,6 @@ GPU:      NVIDIA GeForce GTX 1080 Ti
 „Die Revolution ist keine Party. Sie ist der Beginn eines Kampfes, der die Welt verändern wird. – Wladimir Lenin“
 ```
 
-### Mit benutzerdefiniertem Logo:
-
-```bash
-╔═════════════════════════╗
-║     ☭ Night_Abra ☭      ║
-╚═════════════════════════╝
-
-OS:       Ubuntu 20.04 LTS
-Song:     Nothing Playing
-Birthday: 29 September 2008
-CPU:      Intel Core i7-9700K
-GPU:      NVIDIA GeForce GTX 1080 Ti
-
-„Ein Schritt wirklicher Bewegung ist mehr wert als ein Dutzend Programme. – Marx“
-```
 
 ## Beiträge
 
