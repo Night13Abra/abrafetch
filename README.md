@@ -75,19 +75,8 @@ Du solltest jetzt dein benutzerdefiniertes Logo und die Systeminformationen ange
 
 ### Standardausgabe:
 
-```bash
-╔═════════════════════════╗
-║     ☭ Night_Abra ☭      ║
-╚═════════════════════════╝
+![grafik](https://github.com/user-attachments/assets/ed86e06f-2ff9-4671-b7ad-02851be0a2d3)
 
-OS:       Ubuntu 20.04 LTS
-Song:     Nothing Playing
-Birthday: 29 September 2008
-CPU:      Intel Core i7-9700K
-GPU:      NVIDIA GeForce GTX 1080 Ti
-
-„Die Revolution ist keine Party. Sie ist der Beginn eines Kampfes, der die Welt verändern wird. – Wladimir Lenin“
-```
 
 
 ## Beiträge
